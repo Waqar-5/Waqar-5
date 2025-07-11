@@ -36,3 +36,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=waqar-5&show_icons=true&locale=en" alt="waqar-5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waqar-5&" alt="waqar-5" /></p>
+
+
