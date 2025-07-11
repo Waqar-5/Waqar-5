@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Python OOP, Frontend Architecture, AI Tools, Open Source Projects**
 
-- 📫 How to reach me **wa5134810@gmail.com**
+- 📫 How to reach me **📫 [Email me](mailto:wa5134810@gmail.com)**
 
 - ⚡ Fun fact **I think in code, learn by building, and break things just to rebuild them better 😄**
 
