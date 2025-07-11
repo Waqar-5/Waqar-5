@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with [Integrating OpenRouter Models with LangGraph Memory](https://github.com/Waqar-5/AI_Agents)
 
-- 👨‍💻 All of my projects are available at [well-portfolio-of-waqar.netlify.app](https://well-portfolio-of-waqar.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://well-portfolio-of-waqar.netlify.app#contact)
 
 - 💬 Ask me about **Python OOP, Frontend Architecture, AI Tools, Open Source Projects**
 
