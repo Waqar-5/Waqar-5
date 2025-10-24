@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span color="blue">Waqar Ali</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#007bff;">Waqar Ali</span></h1>
 <h3 align="center">🚀 Frontend Developer | Python & AI Explorer | Building Impactful Tech from Pakistan (🇵🇰)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqar-5&label=Profile%20views&color=0e75b6&style=flat" alt="waqar-5" /> </p>
