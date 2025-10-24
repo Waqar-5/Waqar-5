@@ -1,4 +1,7 @@
-i want tyo update that how <h1 align="center">Hi 👋, I'm <span style="color:#007bff;">Waqar Ali</span></h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&pause=1000&color=007BFF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Waqar+Ali;Frontend+Developer;AI+%26+Python+Explorer" />
+</p>
+
 <h3 align="center">🚀 Frontend Developer | Python & AI Explorer | Building Impactful Tech from Pakistan (🇵🇰)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqar-5&label=Profile%20views&color=0e75b6&style=flat" alt="waqar-5" /> </p>
