@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#8A2BE2; font-weight:bold;">Waqar Ali</span></h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Frontend+Developer;AI+%26+Python+Explorer;Open-Source+Contributor" />
-</p>
+<h1 align="center">
+  Hi 👋, I'm 
+  <img src="https://img.shields.io/badge/Waqar%20Ali-%238A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Waqar Ali" />
+</h1>
 
 
 <h3 align="center">🚀 Frontend Developer | Python & AI Explorer | Building Impactful Tech from Pakistan (🇵🇰)</h3>
