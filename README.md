@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hi 👋, I'm 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=32&duration=1&pause=1000000&color=007BFF&center=true&vCenter=true&width=300&lines=Waqar+Ali" alt="Waqar Ali" />
+  Hi 👋, I'm <h1 style="color=red">Waqar Ali</h1>
 </h1>
 
 
