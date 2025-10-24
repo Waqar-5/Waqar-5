@@ -1,9 +1,6 @@
 <h1 align="center">
-  Hi 👋, I'm <h1 style="color=red">Waqar Ali</h1>
+  Hi 👋, I'm Waqar Ali
 </h1>
-
-
-
 
 <h3 align="center">🚀 Frontend Developer | Python & AI Explorer | Building Impactful Tech from Pakistan (🇵🇰)</h3>
 
