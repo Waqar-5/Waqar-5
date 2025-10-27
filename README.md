@@ -4,11 +4,8 @@
 
 <h3 align="center">🚀 Frontend Developer | Python & AI Explorer | Building Impactful Tech from Pakistan (🇵🇰)</h3>
 
-### 🏆 GitHub Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=waqar-5&theme=radical&no-frame=true)](https://github.com/waqar-5)
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waqar-5&column=7&margin-w=10&margin-h=10" />
-</p>
 
 
 - 🔭 I’m currently working on [Agentic Résumé & Cover Letter Builder using LangGraph + OpenAI SDK](net yet)
