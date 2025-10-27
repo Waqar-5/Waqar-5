@@ -4,7 +4,7 @@
 
 <h3 align="center">🚀 Frontend Developer | Python & AI Explorer | Building Impactful Tech from Pakistan (🇵🇰)</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=waqar-5&label=Profile%20views&color=0e75b6&style=flat" alt="waqar-5" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqar-5&label=Profile%20views&color=0e75b6&style=flat" alt="waqar-5" /> </p> -->
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img src="https://github-profile-trophy.vercel.app/?username=waqar-5" alt="waqar-5" />
 </a>
