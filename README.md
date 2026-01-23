@@ -2,10 +2,11 @@
   <table border="0">
     <tr>
       <td width="300" align="center" valign="top">
-        <img src="https://github.com/Waqar-5.png" width="150" style="border-radius: 50%;" />
+        <img src="https://github.com/Waqar-5.png" width="160" style="border-radius: 50%; border: 2px solid #3fb950;" />
         <br />
-        <h2>Waqar Ali</h2>
-        <p>Junior-level AI/ML Developer</p>
+        <h2 align="center">Waqar Ali</h2>
+        <p align="center"><b>Junior-level AI/ML Developer</b><br>
+        🚀 Frontend Developer | Python & AI Explorer</p>
       </td>
       
       <td width="550" valign="top">
@@ -23,9 +24,7 @@
 * 🔭 **Currently Working on:** AI/ML projects and Python automation.
 * ⚡ **GitRoll Score:** I currently have a **B Rating**. My strongest skill is **Maintainability (4.50)**.
 * 🌱 **Learning:** Improving my **Security** and **Reliability** metrics to reach an **A Rating**.
-
-
-
+* 💬 **Ask me about:** Web Development or AI Agents.
 
 
 <h1 align="center">
