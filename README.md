@@ -1,3 +1,33 @@
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="300" align="center" valign="top">
+        <img src="https://github.com/Waqar-5.png" width="150" style="border-radius: 50%;" />
+        <br />
+        <h2>Waqar Ali</h2>
+        <p>Junior-level AI/ML Developer</p>
+      </td>
+      
+      <td width="550" valign="top">
+        <a href="https://gitroll.io/profile/uR8I9DECKzuWcOMvOq1alAfp8fv22">
+          <img src="https://gitroll.io/api/badges/profiles/v1/uR8I9DECKzuWcOMvOq1alAfp8fv22" alt="GitRoll Assessment" width="500" />
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🚀 About Me
+* 🔭 **Currently Working on:** AI/ML projects and Python automation.
+* ⚡ **GitRoll Score:** I currently have a **B Rating**. My strongest skill is **Maintainability (4.50)**.
+* 🌱 **Learning:** Improving my **Security** and **Reliability** metrics to reach an **A Rating**.
+
+
+
+
+
 <h1 align="center">
   Hi 👋, I'm Waqar Ali
 </h1>
