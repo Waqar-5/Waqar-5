@@ -1,11 +1,3 @@
-<h1 align="center">
-  Hi 👋, I'm Waqar Ali
-</h1>
-
-<h3 align="center">
-  🚀 Frontend Developer | Python & AI Explorer | Building Impactful Tech from Pakistan (🇵🇰)
-</h3>
-
 <!-- GitRoll Badge -->
 <p align="center">
   <a href="https://gitroll.io/profile/uR8I9DECKzuWcOMvOq1alAfp8fv22" target="_blank">
