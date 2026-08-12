@@ -5,14 +5,14 @@
 
 ---
 
-- 🔭 I’m currently working on [Agentic Résumé & Cover Letter Builder using LangGraph + OpenAI SDK](not yet)
+- 🔭 I’m currently working on **AI-powered Full-Stack Applications and Agentic AI projects**
 
-- 🌱 I’m currently learning **Agents SDK, LiteLLM, Python Async, JavaScript**
+- 🌱 I’m currently learning **OpenAI Agents SDK, LangGraph, LiteLLM, Python Async, JavaScript, TypeScript & AI Engineering**
 
-- 👯 I’m looking to collaborate on [AI Agent-Based Startup Ideas (OpenRouter + Gemini + LiteLLM)](Let’s Build Together)
+- 👯 I’m looking to collaborate on **AI Agents, AI-powered SaaS, Automation, and Full-Stack Projects**
 
 - 🤝 I’m looking for help with [Integrating OpenRouter Models with LangGraph Memory](https://github.com/Waqar-5/AI_Agents)
-- 👨‍💻 All of my projects are available at [Portfolio Website](https://well-portfolio-of-waqar.netlify.app#contact) - 💬 Ask me about **Python OOP, Frontend Architecture, AI Tools, Open Source Projects** - 📫 How to reach me **📫 [Email me](mailto:wa5134810@gmail.com)** - ⚡ Fun fact **I think in code, learn by building, and break things just to rebuild them better 😄**
+- 👨‍💻 All of my projects are available at [Portfolio Website](https://waqar-ali-ten.vercel.app) - 💬 Ask me about **Python OOP, Frontend Architecture, AI Tools, Open Source Projects** - 📫 How to reach me **📫 [Email me](mailto:wa5134810@gmail.com)** - ⚡ Fun fact **I think in code, learn by building, and break things just to rebuild them better 😄**
 
 
 ### 🌐 Connect With Me
